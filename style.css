@@ -21,7 +21,9 @@ form{
     width: 600px;
     height: 70px;
     display: flex;
+    box-shadow: 0px 6px 15px rgb(52, 152, 219);
     border-radius: 20px
+    
 }
 form input{
     font-family: monospace;
